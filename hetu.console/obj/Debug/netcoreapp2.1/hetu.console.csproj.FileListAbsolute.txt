@@ -1,0 +1,11 @@
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\bin\Debug\netcoreapp2.1\hetu.console.deps.json
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\bin\Debug\netcoreapp2.1\hetu.console.runtimeconfig.json
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\bin\Debug\netcoreapp2.1\hetu.console.runtimeconfig.dev.json
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\bin\Debug\netcoreapp2.1\hetu.console.dll
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\bin\Debug\netcoreapp2.1\hetu.console.pdb
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.csprojAssemblyReference.cache
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.csproj.CoreCompileInputs.cache
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.AssemblyInfoInputs.cache
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.AssemblyInfo.cs
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.dll
+C:\Users\Katri\Documents\KOODIT\TDT_harjoitukset\hetu.console\obj\Debug\netcoreapp2.1\hetu.console.pdb
