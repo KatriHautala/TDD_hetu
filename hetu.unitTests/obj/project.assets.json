@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "hetu.businesslogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/hetu.businesslogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hetu.businesslogic.dll": {}
+        }
       }
     }
   },
@@ -5741,6 +5751,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "hetu.businesslogic/1.0.0": {
+      "type": "project",
+      "path": "../hetu.businesslogic/hetu.businesslogic.csproj",
+      "msbuildProject": "../hetu.businesslogic/hetu.businesslogic.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5748,6 +5763,7 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
+      "hetu.businesslogic >= 1.0.0",
       "nunit >= 3.10.1"
     ]
   },
@@ -5758,11 +5774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\hetu.unitTests.csproj",
+      "projectUniqueName": "c:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\hetu.unitTests.csproj",
       "projectName": "hetu.unitTests",
-      "projectPath": "C:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\hetu.unitTests.csproj",
+      "projectPath": "c:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\hetu.unitTests.csproj",
       "packagesPath": "C:\\Users\\Katri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\obj\\",
+      "outputPath": "c:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.unitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5780,7 +5796,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.businesslogic\\hetu.businesslogic.csproj": {
+              "projectPath": "c:\\Users\\Katri\\Documents\\KOODIT\\TDT_harjoitukset\\hetu.businesslogic\\hetu.businesslogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

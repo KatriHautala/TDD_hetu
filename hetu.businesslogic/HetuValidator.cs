@@ -2,7 +2,15 @@
 
 namespace hetu.businesslogic
 {
-    public class HetuValidator
+    public static class HetuValidator
     {
+        public static bool isValidSSN(String ssn)
+        {
+            if (ssn.Length != 11)
+            {
+                return false;
+            }
+            return true;
+        }
     }
 }
